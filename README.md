@@ -9,7 +9,7 @@ the [Properties](https://docs.oracle.com/javase/tutorial/essential/environment/p
 class used in Java.
 
 
-Currently, the package is being uploaded to [testpypi](https://test.pypi.org/project/properties/)
+Currently, the package is being uploaded to [testpypi](https://test.pypi.org/project/py-properties/)
 and is in `0.0.1-alpha` version. Someday, this might(hopefully) will be moved to the production index.
 
 
